@@ -1,4 +1,3 @@
-Oasis-Cardgen
-=============
+## CardGen
 
-A card game generator
+A Card Game generator
